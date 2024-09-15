@@ -1,4 +1,5 @@
 ## Hi there 👋
+An aspiring data engineer
 
 <!--
 **Mauron055/Mauron055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
